@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\slideshow2\slideshow2\bin\Debug\slideshow2.exe.config
+C:\Users\Admin\source\repos\slideshow2\slideshow2\bin\Debug\slideshow2.exe
+C:\Users\Admin\source\repos\slideshow2\slideshow2\bin\Debug\slideshow2.pdb
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.Form1.resources
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.Properties.Resources.resources
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.exe
+C:\Users\Admin\source\repos\slideshow2\slideshow2\obj\Debug\slideshow2.pdb
